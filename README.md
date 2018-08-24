@@ -11,6 +11,8 @@ TODO:
 
 ## Installation
 
+Still can't be installed, not published on rubygems.org
+
 Add this line to your application's Gemfile:
 
 ```ruby
